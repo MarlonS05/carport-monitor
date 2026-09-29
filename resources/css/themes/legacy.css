@@ -1,0 +1,22 @@
+html:not([data-theme]),
+html[data-theme='legacy'],
+html[data-theme='darkColorful'] {
+    --theme-background: #111111;
+    --theme-foreground: #f0ede8;
+    --theme-card: #1c1c1e;
+    --theme-card-foreground: #f0ede8;
+    --theme-primary: #e87c2a;
+    --theme-primary-foreground: #111111;
+    --theme-primary-hover: #f59e0b;
+    --theme-secondary: #2a2a2c;
+    --theme-secondary-foreground: #f0ede8;
+    --theme-muted: #2a2a2c;
+    --theme-muted-foreground: #888884;
+    --theme-border: rgb(255 255 255 / 0.08);
+    --theme-input: #242426;
+    --theme-destructive: #d4183d;
+    --theme-success: #34d399;
+    --theme-ring: #e87c2a;
+    --theme-sidebar: #161618;
+    --theme-sidebar-muted: #444442;
+}

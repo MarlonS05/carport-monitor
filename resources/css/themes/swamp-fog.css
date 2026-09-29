@@ -1,0 +1,20 @@
+html[data-theme='swampFog'] {
+    --theme-background: #0e1612;
+    --theme-foreground: #e6ede8;
+    --theme-card: #172220;
+    --theme-card-foreground: #e6ede8;
+    --theme-primary: #6a9f7e;
+    --theme-primary-foreground: #0e1612;
+    --theme-primary-hover: #84b896;
+    --theme-secondary: #223028;
+    --theme-secondary-foreground: #e6ede8;
+    --theme-muted: #223028;
+    --theme-muted-foreground: #7a8e82;
+    --theme-border: rgb(255 255 255 / 0.08);
+    --theme-input: #1a2822;
+    --theme-destructive: #d4183d;
+    --theme-success: #34d399;
+    --theme-ring: #6a9f7e;
+    --theme-sidebar: #121c18;
+    --theme-sidebar-muted: #7a8e82;
+}

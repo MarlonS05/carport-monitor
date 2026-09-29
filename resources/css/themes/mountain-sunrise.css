@@ -1,0 +1,22 @@
+html[data-theme='mountainSunrise'],
+html[data-theme='darkPlain'],
+html[data-theme='lightColorful'] {
+    --theme-background: #28282c;
+    --theme-foreground: #edebe6;
+    --theme-card: #343438;
+    --theme-card-foreground: #edebe6;
+    --theme-primary: #f0c078;
+    --theme-primary-foreground: #28282c;
+    --theme-primary-hover: #f5d090;
+    --theme-secondary: #3a3a3e;
+    --theme-secondary-foreground: #edebe6;
+    --theme-muted: #3a3a3e;
+    --theme-muted-foreground: #9a9892;
+    --theme-border: rgb(255 255 255 / 0.08);
+    --theme-input: #38383c;
+    --theme-destructive: #d4183d;
+    --theme-success: #34d399;
+    --theme-ring: #f0c078;
+    --theme-sidebar: #2e2e32;
+    --theme-sidebar-muted: #9a9892;
+}

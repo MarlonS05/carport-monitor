@@ -1,0 +1,21 @@
+/* Unlayered: overrides @layer theme so Tailwind utilities pick up runtime switches. */
+html[data-theme] {
+    --color-background: var(--theme-background);
+    --color-foreground: var(--theme-foreground);
+    --color-card: var(--theme-card);
+    --color-card-foreground: var(--theme-card-foreground);
+    --color-primary: var(--theme-primary);
+    --color-primary-foreground: var(--theme-primary-foreground);
+    --color-primary-hover: var(--theme-primary-hover);
+    --color-secondary: var(--theme-secondary);
+    --color-secondary-foreground: var(--theme-secondary-foreground);
+    --color-muted: var(--theme-muted);
+    --color-muted-foreground: var(--theme-muted-foreground);
+    --color-border: var(--theme-border);
+    --color-input: var(--theme-input);
+    --color-destructive: var(--theme-destructive);
+    --color-success: var(--theme-success);
+    --color-ring: var(--theme-ring);
+    --color-sidebar: var(--theme-sidebar);
+    --color-sidebar-muted: var(--theme-sidebar-muted);
+}

@@ -1,0 +1,21 @@
+html[data-theme='subZero'],
+html[data-theme='lightPlain'] {
+    --theme-background: #f2f7fb;
+    --theme-foreground: #1a2530;
+    --theme-card: #ffffff;
+    --theme-card-foreground: #1a2530;
+    --theme-primary: #4a9ec8;
+    --theme-primary-foreground: #ffffff;
+    --theme-primary-hover: #3a8bb5;
+    --theme-secondary: #e4eef5;
+    --theme-secondary-foreground: #1a2530;
+    --theme-muted: #e4eef5;
+    --theme-muted-foreground: #5a6d7e;
+    --theme-border: rgb(0 0 0 / 0.08);
+    --theme-input: #e8f0f6;
+    --theme-destructive: #d4183d;
+    --theme-success: #059669;
+    --theme-ring: #4a9ec8;
+    --theme-sidebar: #e8f0f6;
+    --theme-sidebar-muted: #5a6d7e;
+}

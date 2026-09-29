@@ -1,0 +1,21 @@
+html[data-theme='oceanDepth'],
+html[data-theme='darkLightBlue'] {
+    --theme-background: #0b1520;
+    --theme-foreground: #e6eef5;
+    --theme-card: #132030;
+    --theme-card-foreground: #e6eef5;
+    --theme-primary: #4a9fd4;
+    --theme-primary-foreground: #0b1520;
+    --theme-primary-hover: #6bb5e0;
+    --theme-secondary: #1a2d42;
+    --theme-secondary-foreground: #e6eef5;
+    --theme-muted: #1a2d42;
+    --theme-muted-foreground: #7a92a8;
+    --theme-border: rgb(255 255 255 / 0.08);
+    --theme-input: #172535;
+    --theme-destructive: #d4183d;
+    --theme-success: #34d399;
+    --theme-ring: #4a9fd4;
+    --theme-sidebar: #0f1a28;
+    --theme-sidebar-muted: #7a92a8;
+}
